@@ -9,5 +9,5 @@ _example_
 ~~example~~
 5. *, +, - 를 이용해서 순서가 없는 목록을 만들 수 있습니다. <br>
 *ex
-  +am 
-    -ple  
+*am 
+*ple  
